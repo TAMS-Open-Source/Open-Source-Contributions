@@ -8,3 +8,4 @@ DIRECTIONS:
 Open `index.html` to view the calculator. The styles that make it oh-so pretty are store in `styles.css`. You can view issues to solve in the "issues" tab on the GitHub repository. Most issues are fairly simple to solve.
 
 Pick a single error to fix using the directions we explained in the workshop. If you need to go back and look at our instructions again, feel free to check the slideshow on our Facebook page or ask either Nate or Pranay for any help. We ask that this be done by Friday night so we can be sure everyone is ready to start contributing to open-source.
+
